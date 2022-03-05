@@ -6,4 +6,5 @@ int main()
 	printf("Nice to meet you");
 	printf("123");
 	printf("456");
+	printf("mul");
 }
