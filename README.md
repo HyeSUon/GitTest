@@ -15,7 +15,7 @@ int main(void) {
 
 * 깃 듀토리얼
  * 깃 Clone
- *깃 asd
- *깃 qwe
+ * 깃 asd
+ * 깃 qwe
   * 깃 commit 1)
   * 깃 commit 2)
