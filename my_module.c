@@ -8,4 +8,5 @@ int main()
 	printf("456");
 	printf("mul");
 	printf("del"); //¡÷ºÆ
+
 }
