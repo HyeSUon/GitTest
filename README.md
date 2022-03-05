@@ -1,10 +1,11 @@
+## 깃 듀토리얼
 
+소스코드 블록은 다음과 같이 작성할 수 있습니다.
 
-
-
-
-# Windows
-## Windows
-### Windows
-#### Windows
-##### Windows
+```c
+#include <stdio.h>
+int main(void) {
+  printf("Hello World!");
+  return 0;
+}
+```
